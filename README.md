@@ -1,6 +1,6 @@
 # 📞 Telco Customer Churn: Who Should We Call?
 
-**A Python-based logistic regression project**: predicting which customers are likely to leave a telecoms company, then turning those predictions into a costed retention campaign (who to contact, how many, and whether it pays off). The analysis was performed using the public [IBM Telco Customer Churn dataset](ADD-KAGGLE-LINK) from Kaggle.
+**A Python-based logistic regression project**: predicting which customers are likely to leave a telecoms company, then turning those predictions into a costed retention campaign (who to contact, how many, and whether it pays off). The analysis was performed using the public [IBM Telco Customer Churn dataset](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113/data) from Kaggle.
 
 ---
 
